@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\data\evaluations\evaluations.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\data\ingredients\ingredients_nutrition.csv">
           <value>
             <Attribute>
@@ -31,7 +38,21 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\data\results_to_evaluate\bert_results.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\data\results_to_evaluate\bert_results_large.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\results_to_evaluate\results.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -66,6 +87,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\data\survey\survey_dfs_evaluation.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\survey_results\random_survey_results_raw.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\data\survey_results\survey_results.csv">
           <value>
             <Attribute>
@@ -74,6 +109,13 @@
           </value>
         </entry>
         <entry key="\data\survey_results\survey_results_raw.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\survey_results\val_results.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
